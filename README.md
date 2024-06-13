@@ -1,1 +1,1 @@
-This Repo Consist a Tableau Dashboard Of A gaming Company NEXUS which Shows The sales of Its Game Launched Right from 1980 To 2020. The speciality of the dashboard is you can See The sales of Video of Criteria Mentioned in just one click.
+This Repo Consist a Tableau Dashboard Of A gaming Company VOIS which Shows The sales of Its Game Launched Right from 1980 To 2020. The speciality of the dashboard is you can See The sales of Video of Criteria Mentioned in just one click.
